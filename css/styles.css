@@ -1,0 +1,15 @@
+h2.intro {
+  color: red;
+  font-size:20px;
+  font-style: normal;
+
+}
+p.intro {
+  color: black;
+  font-size: 30px;
+  font-style: normal;
+}
+
+img.intro {
+  width: 100px;
+}
