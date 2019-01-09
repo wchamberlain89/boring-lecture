@@ -1,15 +1,15 @@
-h2.intro {
+.intro h2 {
   color: red;
   font-size:20px;
   font-style: normal;
 
 }
-p.intro {
+.intro p {
   color: black;
   font-size: 30px;
   font-style: normal;
 }
 
-img.intro {
+.intro img {
   width: 100px;
 }
